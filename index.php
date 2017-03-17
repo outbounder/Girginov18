@@ -95,7 +95,7 @@
         <div class="container">
           <div class="intro-text">
             <h4>Решения за дома и офиса</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at vulputate erat, suscipit lobortis magna.</p>
+            <p>Kамини, водни ризи, монтаж на радиатори, котли, пелети, гас това са само част от модерните решения, които можем да ви предложим</p>
           </div>
         </div>
       </div>
@@ -268,8 +268,8 @@
             <p>
               гр. Варна,<br>
               ул. „Генерал Колев“ 66<br>
-              Телефон: +359 898 71 73 60<br>
-              Email: gitginov13@abv.bg
+              Телефон: +359 897 547 026<br>
+              Email: girginov18@abv.bg
             </p>
           </div>
         </div>

@@ -2,11 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible", content="IE=edge">
-    <meta name="description", content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, maximum-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" ,="" content="IE=edge">
+    <meta name="description" content="Отопление и Газификация">
+    <meta name="author" content="[VarnaLab]">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, maximum-scale=1.0">
+    <meta name="keywords" content="HTML, CSS, XML, XHTML, JAVASCRIPT">
     <title>Гиргинов 18</title>
-    <link rel="stylesheet", href="css/index.css">
+    <link rel="stylesheet", href="/css/index.css">
   </head>
   <body>
     <div class="mobile-menu">

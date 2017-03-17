@@ -215,7 +215,20 @@
                 </li>
               </ul>
             </div>
-
+            <div class="screenshots heating">
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+            </div>
           </div>
         </div>
         <div class="subsection-devider"></div>
@@ -244,9 +257,24 @@
                 Къртене на бани и смяна на тръби.
               </li>
             </ul>
-
+<div class="screenshots heating">
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              </a>
+            </div>
           </div>
+
         </div>
+        
     </section>
     <section id="contacts" class="contacts">
       <div class="section-title">

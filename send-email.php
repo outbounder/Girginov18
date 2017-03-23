@@ -6,7 +6,7 @@
   $headers = "Content-Type: text/html; charset=UTF-8";
   $subject = "Запитване от ".$from_name;
 
-  $success = mail("pavelgdobrev@gmail.com", $subject, $message, $headers);
+  $success = mail("kalinbobchev@gmail.com", $subject, $message, $headers);
 
   if (!$success) {
     return header("Location: /?status=error#form");

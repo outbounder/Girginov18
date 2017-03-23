@@ -1,15 +1,15 @@
 <!doctype html>
-<html lang="en">
+<html lang="bg">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" ,="" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Отопление и Газификация">
     <meta name="author" content="[VarnaLab]">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, maximum-scale=1.0">
     <meta name="keywords" content="HTML, CSS, XML, XHTML, JAVASCRIPT">
     <title>Гиргинов 18</title>
-    <link rel="stylesheet", href="/css/index.css">
-  </head>
+    <link rel="stylesheet" href="/css/index.css">
+   </head>
   <body>
     <div class="mobile-menu">
       <div class="close-area"></div>
@@ -21,36 +21,36 @@
         <ul>
           <li>
             <a href="#about-us">
-              <span><img src="/images/about-us-icon.png" /></span>
+              <span><img alt="About Us" src="/images/about-us-icon.png" /></span>
               За нас
             </a>
           </li>
           <li>
             <a href="#heating">
-              <span><img src="/images/heating-icon.png" /></span>
+              <span><img alt="Heat" src="/images/heating-icon.png" /></span>
               Отопление
             </a>
           </li>
           <li>
             <a href="#gas">
-              <span><img src="/images/gas-icon.png" /></span>
+              <span><img alt="Gas" src="/images/gas-icon.png" /></span>
               Газификация
             </a>
           </li>
           <li>
             <a href="#vik">
-              <span><img src="/images/vik-icon.png" /></span>
+              <span><img alt="VIK" src="/images/vik-icon.png" /></span>
               ВИК
             </a>
           </li>
           <li>
             <a href="#contacts">
-              <span><img src="/images/contact-us-icon.png" /></span>
+              <span><img alt="Contact Us" src="/images/contact-us-icon.png" /></span>
               Контакти
             </a>
           </li>
         </ul>
-        <img class="logo" src="/images/logo.png">
+        <img alt="logo" class="logo" src="/images/logo.png">
       </div>
     </div>
 
@@ -59,7 +59,7 @@
         <div class="container">
 
           <a href="#" class="mobile-menu-btn">
-            <img src="/images/menu-icon.png">
+            <img alt="Menu Icon" src="/images/menu-icon.png">
           </a>
 
           <ul>
@@ -81,7 +81,7 @@
           </ul>
 
           <div class="logo-pad">
-            <img class="logo" src="/images/logo.png">
+            <img alt="Logo" class="logo" src="/images/logo.png">
           </div>
         </div>
         <div class="box"></div>
@@ -102,7 +102,7 @@
       <div class="bottom-part">
         <div class="box"></div>
         <div class="container">
-          <img src="/images/slide-down.jpg">
+          <img alt="Slide-down" src="/images/slide-down.jpg">
         </div>
       </div>
     </header>
@@ -110,7 +110,7 @@
       <div class="container">
         <div class="clearfix">
           <div class="section-icon">
-            <img src="/images/about-us.png" />
+            <img alt="About Us" src="/images/about-us.png" />
           </div>
           <a href="#about-us" class="anchor">
             <h1>За нас</h1>
@@ -129,10 +129,10 @@
         <div class="subsection heating">
           <div class="container clearfix">
             <div class="section-icon">
-              <img src="/images/services-heating.png" />
+              <img alt="Heating" src="/images/services-heating.png" />
             </div>
-            <a href="#heating" name="heating" class="anchor">
-              <h2 name="heating">Отопление</h2>
+            <a href="#heating" id="heating" class="anchor">
+              <h2 id="heating">Отопление</h2>
             </a>
             <ul>
               <li>
@@ -175,9 +175,9 @@
         <div class="subsection gas">
           <div id="gas" class="container">
             <div class="section-icon">
-              <img src="/images/services-gas.png" />
+              <img alt="services-gas" src="/images/services-gas.png" />
             </div>
-            <a href="#gas" name="gas" class="anchor">
+            <a href="#gas" id="gas" class="anchor">
               <h2>Газификация</h2>
             </a>
             <div class="text1">
@@ -235,9 +235,9 @@
         <div class="subsection vik">
           <div class="container clearfix">
             <div class="section-icon">
-              <img src="/images/services-vik.png" />
+              <img alt="services-vik" src="/images/services-vik.png" />
             </div>
-            <a href="#vik" name="vik" class="anchor">
+            <a href="#vik" id="vik" class="anchor">
               <h2>ВИК</h2>
             </a>
             <ul>
@@ -261,11 +261,11 @@
               <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
                 style="background-image: url('/images/screenshots/heating/img1.jpg')">
               </a>
-              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
-                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              <a href="/images/screenshots/heating/img2.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img2.jpg')">
               </a>
-              <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
-                style="background-image: url('/images/screenshots/heating/img1.jpg')">
+              <a href="/images/screenshots/heating/img3.jpg" target="_blank" class="screenshot"
+                style="background-image: url('/images/screenshots/heating/img3.jpg')">
               </a>
               <a href="/images/screenshots/heating/img1.jpg" target="_blank" class="screenshot"
                 style="background-image: url('/images/screenshots/heating/img1.jpg')">
@@ -288,7 +288,7 @@
         <div class="part1 clearfix">
           <div class="column icon-column">
             <div class="section-icon">
-              <img src="/images/contact-us.png" />
+              <img alt="contact-us" src="/images/contact-us.png" />
             </div>
           </div>
           <div class="column info">
@@ -310,23 +310,17 @@
           </div>
           <div id="form" class="column info">
             <h3 class="write-us">или ни пишете...</h3>
-            <form action="http://girginov18.com/send-email.php" method="post">
-              <? if ($_GET["status"] == "success") { ?>
+            <form action="/send-email.php" method="post">
+              <?php if (isset($_GET["status"]) && $_GET["status"] == "success"): ?>
                 <div class="alert success">
                   Вашето запитване, беше изпратено успешно.
                 </div>
-              <? } ?>
-              <? if ($_GET["status"] == "error") { ?>
+              <?php endif; ?>
+              <?php if (isset($_GET["status"]) && $_GET["status"] == "error"): ?>
                 <div class="alert error">
                   Възникна неочаквана грешка, моля опитайте отново.
                 </div>
-              <? } ?>
-              <div class="alert error hidden">
-                Възникна неочаквана грешка, моля опитайте отново.
-              </div>
-              <div class="alert success hidden">
-                Вашето запитване, беше изпратено успешно.
-              </div>
+              <?php endif; ?>
 
               <label>Име</label>
               <br>
@@ -349,7 +343,7 @@
 
     <footer>
       <div class="container menu">
-        <img class="logo" src="/images/logo.png">
+        <img alt="Logo" class="logo" src="/images/logo.png">
         <ul>
           <li>
             <a href="#about-us">За нас</a>
@@ -437,3 +431,5 @@
     <script src="js/index.js"></script>
   </body>
 </html>
+
+

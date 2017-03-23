@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, maximum-scale=1.0">
     <meta name="keywords" content="HTML, CSS, XML, XHTML, JAVASCRIPT">
     <title>Гиргинов 18</title>
-    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="css/index.css">
    </head>
   <body>
     <div class="mobile-menu">

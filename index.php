@@ -21,31 +21,31 @@
         <ul>
           <li>
             <a href="#about-us">
-              <span><img alt="About Us" src="/images/about-us-icon.png" /></span>
+              <span><img alt="Повече за нас" src="/images/about-us-icon.png" /></span>
               За нас
             </a>
           </li>
           <li>
             <a href="#heating">
-              <span><img alt="Heat" src="/images/heating-icon.png" /></span>
+              <span><img alt="Утопление" src="/images/heating-icon.png" /></span>
               Отопление
             </a>
           </li>
           <li>
             <a href="#gas">
-              <span><img alt="Gas" src="/images/gas-icon.png" /></span>
+              <span><img alt="Газификация" src="/images/gas-icon.png" /></span>
               Газификация
             </a>
           </li>
           <li>
             <a href="#vik">
-              <span><img alt="VIK" src="/images/vik-icon.png" /></span>
+              <span><img alt="В.И.К." src="/images/vik-icon.png" /></span>
               ВИК
             </a>
           </li>
           <li>
             <a href="#contacts">
-              <span><img alt="Contact Us" src="/images/contact-us-icon.png" /></span>
+              <span><img alt="Свържете се с нас" src="/images/contact-us-icon.png" /></span>
               Контакти
             </a>
           </li>
@@ -110,7 +110,7 @@
       <div class="container">
         <div class="clearfix">
           <div class="section-icon">
-            <img alt="About Us" src="/images/about-us.png" />
+            <img alt="Повече информация за нас" src="/images/about-us.png" />
           </div>
           <a href="#about-us" class="anchor">
             <h1>За нас</h1>
@@ -129,7 +129,7 @@
         <div class="subsection heating">
           <div class="container clearfix">
             <div class="section-icon">
-              <img alt="Heating" src="/images/services-heating.png" />
+              <img alt="Утопление" src="/images/services-heating.png" />
             </div>
             <a href="#heating" id="heating" class="anchor">
               <h2 id="heating">Отопление</h2>
@@ -175,7 +175,7 @@
         <div class="subsection gas">
           <div id="gas" class="container">
             <div class="section-icon">
-              <img alt="services-gas" src="/images/services-gas.png" />
+              <img alt="Газификация" src="/images/services-gas.png" />
             </div>
             <a href="#gas" id="gas" class="anchor">
               <h2>Газификация</h2>
@@ -235,7 +235,7 @@
         <div class="subsection vik">
           <div class="container clearfix">
             <div class="section-icon">
-              <img alt="services-vik" src="/images/services-vik.png" />
+              <img alt="В.И.К. Инсталация" src="/images/services-vik.png" />
             </div>
             <a href="#vik" id="vik" class="anchor">
               <h2>ВИК</h2>
@@ -288,7 +288,7 @@
         <div class="part1 clearfix">
           <div class="column icon-column">
             <div class="section-icon">
-              <img alt="contact-us" src="/images/contact-us.png" />
+              <img alt="Свържи се с нас" src="/images/contact-us.png" />
             </div>
           </div>
           <div class="column info">

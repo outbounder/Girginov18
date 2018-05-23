@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="bg">
   <head>
     <meta charset="utf-8">
@@ -308,35 +308,6 @@
               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d864.5002671318756!2d27.918492707702107!3d43.21324986113333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbg!4v1460483994571" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
           </div>
-          <div id="form" class="column info">
-            <h3 class="write-us">или ни пишете...</h3>
-            <form action="/send-email.php" method="post">
-              <?php if (isset($_GET["status"]) && $_GET["status"] == "success"): ?>
-                <div class="alert success">
-                  Вашето запитване, беше изпратено успешно.
-                </div>
-              <?php endif; ?>
-              <?php if (isset($_GET["status"]) && $_GET["status"] == "error"): ?>
-                <div class="alert error">
-                  Възникна неочаквана грешка, моля опитайте отново.
-                </div>
-              <?php endif; ?>
-
-              <label>Име</label>
-              <br>
-              <input type="text" name="name" required>
-              <br>
-              <label>Email</label>
-              <br>
-              <input type="email" name="email" required>
-              <br>
-              <label>Съобщение</label>
-              <br>
-              <textarea name="message" rows="5" required></textarea>
-              <br>
-              <button type="submit" class="submit-btn">ИЗПРАТИ</button>
-            </form>
-          </div>
         </div>
       </div>
     </section>
@@ -431,5 +402,3 @@
     <script src="js/index.js"></script>
   </body>
 </html>
-
-
